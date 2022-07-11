@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>135806459155-efbdotjrmbpc9jevv5tir7hjc30drmoe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.135806459155-efbdotjrmbpc9jevv5tir7hjc30drmoe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDoYfk01RHLnaWVCgltckqGeFeHQTXZZw8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>135806459155</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.oneplanet.scalifra</string>
+	<key>PROJECT_ID</key>
+	<string>agenda-franciscana</string>
+	<key>STORAGE_BUCKET</key>
+	<string>agenda-franciscana.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:135806459155:ios:7b400c28e71452a7b7cee6</string>
+	<key>DATABASE_URL</key>
+	<string>https://agenda-franciscana.firebaseio.com</string>
+</dict>
+</plist>

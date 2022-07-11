@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "135806459155",
+    "firebase_url": "https://agenda-franciscana.firebaseio.com",
+    "project_id": "agenda-franciscana",
+    "storage_bucket": "agenda-franciscana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135806459155:android:cac6e31d4e6cae53b7cee6",
+        "android_client_info": {
+          "package_name": "com.oneplanet.scalifra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135806459155-nmamus5coj920ajtlrpdgi5fi4ea2i64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNyK9VMXXtdEu6y7SHJRqp2ntA5MTUbDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135806459155-nmamus5coj920ajtlrpdgi5fi4ea2i64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "135806459155-efbdotjrmbpc9jevv5tir7hjc30drmoe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oneplanet.scalifra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
